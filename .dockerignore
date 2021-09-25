@@ -1,0 +1,6 @@
+.idea
+node_modules
+.eslintrc.js
+isd-1.iml
+build-image.sh
+Dockerfile

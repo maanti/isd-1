@@ -1,0 +1,21 @@
+{
+  "name": "isd-1",
+  "version": "1.0.0",
+  "description": "Information systems design - Task 6",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Docker"
+  ],
+  "author": "Matvey Antipov",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.21.6"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
